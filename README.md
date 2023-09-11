@@ -19,65 +19,65 @@ Feel free to explore the write-ups, and if you find them helpful or have any fee
 
 Here are some of the key CTF write-ups available in this repository:
 
-- [Challenge Name 1](./challenge-name-1/README.md)
+- [RunMe](runme)
   - Description of the challenge
   - Category and difficulty level
   - Write-up and explanation
 
-- [Challenge Name 2](./challenge-name-2/README.md)
+- [CodeBook](codebook)
   - Description of the challenge
   - Category and difficulty level
   - Write-up and explanation
 
-- [Challenge Name 2](./challenge-name-2/README.md)
+- [ConvertMe](convertme_py)
   - Description of the challenge
   - Category and difficulty level
   - Write-up and explanation
 
-- [Challenge Name 2](./challenge-name-2/README.md)
+- [Glitch_Cat](Glitch_cat)
   - Description of the challenge
   - Category and difficulty level
   - Write-up and explanation
  
-- [Challenge Name 2](./challenge-name-2/README.md)
+- [HashingJobApp](HashingJobApp)
   - Description of the challenge
   - Category and difficulty level
   - Write-up and explanation
 
-- [Challenge Name 2](./challenge-name-2/README.md)
+- [FixMe1](fixme1_py)
   - Description of the challenge
   - Category and difficulty level
   - Write-up and explanation
 
-- [Challenge Name 2](./challenge-name-2/README.md)
+- [FixMe2](fixme2_py)
   - Description of the challenge
   - Category and difficulty level
   - Write-up and explanation
  
-- [Challenge Name 2](./challenge-name-2/README.md)
+- [Pw_Crack_1](Pw_crack_1)
   - Description of the challenge
   - Category and difficulty level
   - Write-up and explanation
-- [Challenge Name 2](./challenge-name-2/README.md)
+- [Pw_Crack_2](Pw_crack_2)
   - Description of the challenge
   - Category and difficulty level
   - Write-up and explanation
-- [Challenge Name 2](./challenge-name-2/README.md)
-  - Description of the challenge
-  - Category and difficulty level
-  - Write-up and explanation
-
-- [Challenge Name 2](./challenge-name-2/README.md)
+- [Pw_Crack_3](Pw_crack_3)
   - Description of the challenge
   - Category and difficulty level
   - Write-up and explanation
 
-- [Challenge Name 2](./challenge-name-2/README.md)
+- [Pw_Crack_4](Pw_crack_4)
   - Description of the challenge
   - Category and difficulty level
   - Write-up and explanation
 
-- [Challenge Name 2](./challenge-name-2/README.md)
+- [Pw_Crack_5](Pw_crack_5)
+  - Description of the challenge
+  - Category and difficulty level
+  - Write-up and explanation
+
+- [Serpentine](serpentine)
   - Description of the challenge
   - Category and difficulty level
   - Write-up and explanation
